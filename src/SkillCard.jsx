@@ -6,16 +6,16 @@ function SkillCard (props)
     {
         display:"inline-block",
         textAlign:"center",
-        backgroundColor:"white",
+        backgroundColor:"rgb(28, 29, 29)",
         margin:"2rem ",
-        boxShadow:"10px 10px #888888",
+        
     }
     var imgCss =
     {
         
         display:"inline-block",
-        width:"375px",
-        height:"475px",
+        width:"75px",
+        height:"75px",
         margin:"30px",
     }
     var Name =
@@ -23,6 +23,7 @@ function SkillCard (props)
         fontFamily:"'Orelega One', cursive;",
         fontSize:"2.5rem",
         marginTop:"0px",
+        color:"#01ff43",
     }
     return(
         <>
@@ -33,7 +34,7 @@ function SkillCard (props)
           <div>
               <h2 style={Name}>{props.name}</h2>
           </div> 
-          <button>Watch Now</button>
+    
         </div>
         
         </>

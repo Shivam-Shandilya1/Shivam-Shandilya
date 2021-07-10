@@ -6,25 +6,65 @@ import SkillCard from './SkillCard';
 var ns = 
 [
    {
-       imglink:process.env.PUBLIC_URL + '/Images/OnePunchMan.jfif',
-       name:"One Punch Man"
+       imglink:process.env.PUBLIC_URL + '/Images/html.png',
+       name:"HTML"
    } ,
    {
-       imglink:process.env.PUBLIC_URL + '/Images/Death-Note.jpg',
-       name:"Death Note"
+       imglink:process.env.PUBLIC_URL + '/Images/CSS.png',
+       name:"CSS"
    },
    {
-    imglink:process.env.PUBLIC_URL + '/Images/MyHeroAcademia.png',
-    name:"My Hero Academia"
+    imglink:process.env.PUBLIC_URL + '/Images/js.png',
+    name:"JavaScript"
    },
    {
-       imglink:process.env.PUBLIC_URL + '/Images/Naruto.jpg',
-       name:"Naruto"
+       imglink:process.env.PUBLIC_URL + '/Images/jQuery.png',
+       name:"jQuery"
    },
    {
-       imglink:process.env.PUBLIC_URL + '/Images/DemonSlayer.jpg',
-       name:"Demon Slayer"
-   }
+       imglink:process.env.PUBLIC_URL + '/logo512.png',
+       name:"Reactjs"
+   },
+   {
+    imglink:process.env.PUBLIC_URL + '/Images/Node.png',
+    name:"Nodejs"
+   },
+   {
+    imglink:process.env.PUBLIC_URL + '/Images/express.png',
+    name:"Expressjs"
+   },
+   {
+    imglink:process.env.PUBLIC_URL + '/Images/SQL.png',
+    name:"SQL"
+   },
+   {
+    imglink:process.env.PUBLIC_URL + '/Images/mongodb.png',
+    name:"MongoDB"
+   },
+   {
+    imglink:process.env.PUBLIC_URL + '/Images/mongoose.png',
+    name:"Mongosoe"
+   },
+   {
+    imglink:process.env.PUBLIC_URL + '/Images/api.png',
+    name:"API"
+   },
+   {
+    imglink:process.env.PUBLIC_URL + '/Images/ejs.png',
+    name:"EJS"
+   },
+   {
+    imglink:process.env.PUBLIC_URL + '/Images/c.png',
+    name:"C"
+   },
+   {
+    imglink:process.env.PUBLIC_URL + '/Images/Cp.png',
+    name:"C++"
+   },
+   {
+    imglink:process.env.PUBLIC_URL + '/Images/autocad.png',
+    name:"AutoCAD"
+   },
 
 ]
 const newarr = ns.map((cvalue)=>
