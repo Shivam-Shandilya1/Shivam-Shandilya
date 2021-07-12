@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Shivam-Shandilya/static/css/main.a617e044.chunk.css",
+    "main.js": "/Shivam-Shandilya/static/js/main.a944b34f.chunk.js",
+    "main.js.map": "/Shivam-Shandilya/static/js/main.a944b34f.chunk.js.map",
+    "runtime-main.js": "/Shivam-Shandilya/static/js/runtime-main.9b38087b.js",
+    "runtime-main.js.map": "/Shivam-Shandilya/static/js/runtime-main.9b38087b.js.map",
+    "static/css/2.4be38407.chunk.css": "/Shivam-Shandilya/static/css/2.4be38407.chunk.css",
+    "static/js/2.79fbf246.chunk.js": "/Shivam-Shandilya/static/js/2.79fbf246.chunk.js",
+    "static/js/2.79fbf246.chunk.js.map": "/Shivam-Shandilya/static/js/2.79fbf246.chunk.js.map",
+    "static/js/3.6a635cbe.chunk.js": "/Shivam-Shandilya/static/js/3.6a635cbe.chunk.js",
+    "static/js/3.6a635cbe.chunk.js.map": "/Shivam-Shandilya/static/js/3.6a635cbe.chunk.js.map",
+    "index.html": "/Shivam-Shandilya/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/Shivam-Shandilya/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/Shivam-Shandilya/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.79fbf246.chunk.js.LICENSE.txt": "/Shivam-Shandilya/static/js/2.79fbf246.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Shivam-Shandilya/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b38087b.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.79fbf246.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a944b34f.chunk.js"
+  ]
+}
