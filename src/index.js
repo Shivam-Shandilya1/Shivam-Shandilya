@@ -5,7 +5,7 @@ import Header from "./Header.jsx";
 import FirstDiv from "./FirstDiv.jsx";
 import App from './App';
 import Skills from './Skills';
-import SkillCard from './SkillCard';
+import Work from './Work';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
@@ -13,6 +13,7 @@ ReactDOM.render(
   <Header/>
   <FirstDiv/>
   <Skills/>
+  <Work/>
     <App />
   </>,
   document.getElementById('root')
