@@ -109,7 +109,7 @@ const Skills=()=>{{
         },
         {
          imglink:process.env.PUBLIC_URL + '/Images/mongoose.png',
-         name:"Mongosoe"
+         name:"Mongoose"
         },
         {
          imglink:process.env.PUBLIC_URL + '/Images/api.png',
